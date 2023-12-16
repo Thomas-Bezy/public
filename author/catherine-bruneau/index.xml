@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Catherine Bruneau | Thomas Bézy</title>
+    <link>/author/catherine-bruneau/</link>
+      <atom:link href="/author/catherine-bruneau/index.xml" rel="self" type="application/rss+xml" />
+    <description>Catherine Bruneau</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hud8c10f350cad157bc7b750ce5c74edee_11194_512x512_fill_lanczos_center_3.png</url>
+      <title>Catherine Bruneau</title>
+      <link>/author/catherine-bruneau/</link>
+    </image>
+    
+    <item>
+      <title>How can we Explain the Recruitment Difficulties Anticipated by Companies?</title>
+      <link>/publication/published-paper/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/published-paper/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
